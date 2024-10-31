@@ -1,0 +1,11 @@
+2024-10-31 12:55:05 - Başarısız giriş denemesi: kardelen
+2024-10-31 12:57:47 - Yeni kullanıcı kaydedildi: kardelen (Rol: admin)
+2024-10-31 12:57:55 - Başarılı giriş: kardelen
+2024-10-31 12:58:10 - Yeni kullanıcı kaydedildi: ayberk (Rol: musteri)
+2024-10-31 12:58:30 - Admin müşteri sildi: ayberk
+2024-10-31 13:00:26 - Hatalı giriş denemesi: ayberk
+2024-10-31 13:00:45 - Yeni kullanıcı kaydedildi: ayberk (Rol: musteri)
+2024-10-31 13:00:51 - ayberk giriş yaptı.
+2024-10-31 13:02:02 - Hatalı giriş denemesi: asd
+2024-10-31 13:02:08 - Yeni kullanıcı kaydedildi: ayberk (Rol: musteri)
+2024-10-31 13:02:14 - Başarılı giriş: ayberk (Rol: musteri)
