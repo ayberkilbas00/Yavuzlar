@@ -1,0 +1,28 @@
+Number: 1
+Title: beyaz lahana
+Image URL: https://mn.nytcdn.com/wp-content/themes/nytheme/assets/img/loader.gif
+---------------------------
+Number: 2
+Title: pırasa
+Image URL: https://i.nefisyemektarifleri.com/2024/11/22/firinda-besamel-soslu-pirasa-tarifi-320x213.jpg
+---------------------------
+Number: 3
+Title: karnabahar
+Image URL: https://i.nefisyemektarifleri.com/2024/11/19/cift-hazneli-airfryerda-hamsi-bugulama-ve-misir-ekmegi-14-320x213.jpg
+---------------------------
+Number: 4
+Title: havuç
+Image URL: https://i.nefisyemektarifleri.com/2024/11/17/cift-hazneli-airfryerda-milfoy-waffle-320x213.jpg
+---------------------------
+Number: 5
+Title: kereviz
+Image URL: https://i.nefisyemektarifleri.com/2024/11/14/firinda-kiymali-lahana-sarmasi-320x213.jpg
+---------------------------
+Number: 6
+Title: Domates
+Image URL: https://i.nefisyemektarifleri.com/2024/11/12/cift-hazneli-airfryerda-mac-n-cheese-ve-karnabahar-320x213.jpg
+---------------------------
+Number: 7
+Title: Malzeme Ekle
+Image URL: https://i.nefisyemektarifleri.com/2024/11/09/cift-hazneli-airfryerda-citir-yufkali-kofte-1-320x213.jpg
+---------------------------
