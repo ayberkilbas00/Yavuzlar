@@ -1,0 +1,59 @@
+2024-11-30 16:17:59 - Müşteri için hatalı giriş
+2024-11-30 16:18:18 - Admin giriş yaptı
+2024-11-30 16:18:58 - Program kapandı
+2024-11-30 16:19:07 - kaan giriş yaptı
+2024-11-30 16:19:07 - Program kapandı
+2024-11-30 16:29:17 - ayberk giriş yaptı
+2024-11-30 16:29:17 - Program kapandı
+2024-11-30 16:29:29 - Admin için hatalı giriş
+2024-11-30 16:29:45 - Admin giriş yaptı
+2024-11-30 16:37:25 - ayberk giriş yaptı
+2024-11-30 16:37:25 - Program kapandı
+2024-11-30 16:39:58 - Başarısız admin giriş denemesi
+2024-11-30 16:40:10 - Başarısız admin giriş denemesi
+2024-11-30 16:40:22 - Başarısız müşteri giriş denemesi
+2024-11-30 16:52:39 - Admin giriş yaptı
+2024-11-30 16:52:43 - Program kapandı
+2024-11-30 16:52:49 - ayberk giriş yaptı
+2024-11-30 16:52:49 - Program kapandı
+2024-11-30 16:54:42 - ayberk giriş yaptı
+2024-11-30 16:54:42 - Program kapandı
+2024-11-30 16:55:29 - ayberk giriş yaptı
+2024-11-30 16:55:31 - Profili görüntüle seçildi
+2024-11-30 16:55:31 - ayberkprofilini görüntüledi
+2024-11-30 16:55:34 - Şifreyi değiştirme seçildi
+2024-11-30 16:55:38 - ayberk çıkış yaptı
+2024-11-30 16:55:48 - ayberk giriş yaptı
+2024-11-30 16:55:57 - Geçersiz Seçim
+2024-11-30 16:57:14 - ayberk giriş yaptı
+2024-11-30 16:57:16 - Şifreyi değiştirme seçildi
+2024-11-30 16:57:26 - Kullanıcı 'ayberk' şifresini başarıyla değiştirdi.
+2024-11-30 16:57:28 - ayberk çıkış yaptı
+2024-11-30 16:57:33 - ayberk giriş yaptı
+2024-11-30 16:59:00 - ayberk giriş yaptı
+2024-11-30 16:59:03 - ayberk çıkış yaptı
+2024-11-30 16:59:14 - Admin giriş yaptı
+2024-11-30 17:00:52 - ayberk giriş yaptı
+2024-11-30 17:00:54 - ayberk çıkış yaptı
+2024-11-30 17:05:36 - Müşteri için hatalı giriş
+2024-11-30 17:05:42 - Müşteri için hatalı giriş
+2024-11-30 17:05:50 - Admin için hatalı giriş
+2024-11-30 17:05:55 - Admin giriş yaptı
+2024-11-30 17:06:28 - Program kapandı
+2024-11-30 17:06:35 - ayberk giriş yaptı
+2024-11-30 17:06:36 - Profili görüntüle seçildi
+2024-11-30 17:06:36 - ayberkprofilini görüntüledi
+2024-11-30 17:06:40 - Şifreyi değiştirme seçildi
+2024-11-30 17:06:49 - Kullanıcı 'ayberk' şifresini başarıyla değiştirdi.
+2024-11-30 17:06:54 - ayberk çıkış yaptı
+2024-11-30 17:07:00 - Müşteri için hatalı giriş
+2024-11-30 17:07:05 - Müşteri için hatalı giriş
+2024-11-30 17:07:11 - Müşteri için hatalı giriş
+2024-11-30 17:07:15 - ayberk giriş yaptı
+2024-11-30 17:07:19 - Şifreyi değiştirme seçildi
+2024-11-30 17:07:23 - Kullanıcı 'ayberk' yanlış şifre girmeye çalıştı.
+2024-11-30 17:07:29 - Şifreyi değiştirme seçildi
+2024-11-30 17:07:39 - Kullanıcı 'ayberk' yanlış şifre girmeye çalıştı.
+2024-11-30 17:07:40 - Şifreyi değiştirme seçildi
+2024-11-30 17:07:49 - Kullanıcı 'ayberk' şifresini başarıyla değiştirdi.
+2024-11-30 17:07:53 - ayberk çıkış yaptı
