@@ -11,7 +11,6 @@ import (
 	"golang.org/x/crypto/ssh"
 )
 
-// SSH bağlantısını test eden fonksiyon
 func trySSH(host, user, password string, wg *sync.WaitGroup) {
 	defer wg.Done()
 
@@ -34,7 +33,6 @@ func trySSH(host, user, password string, wg *sync.WaitGroup) {
 	fmt.Printf("[SUCCESS] Host: %s | User: %s | Password: %s\n", host, user, password)
 }
 
-// Dosyadan kelimeleri oku
 func readLines(path string) ([]string, error) {
 	file, err := os.Open(path)
 	if err != nil {
@@ -51,7 +49,6 @@ func readLines(path string) ([]string, error) {
 }
 
 func main() {
-	// CLI Argümanlarını Tanımla
 	host := flag.String("h", "", "Hedef IP veya Hostname (ZORUNLU)")
 	user := flag.String("u", "", "Tek bir kullanıcı adı belirtin")
 	userFile := flag.String("U", "", "Kullanıcı adı wordlist dosyası belirtin")
@@ -61,7 +58,6 @@ func main() {
 
 	flag.Parse()
 
-	// Zorunlu alanların kontrolü
 	if *host == "" {
 		fmt.Println("Hata: -h (host) parametresi zorunludur.")
 		flag.Usage()
@@ -74,7 +70,6 @@ func main() {
 		os.Exit(1)
 	}
 
-	// Kullanıcı ve parola listelerini yükle
 	var users []string
 	var passwords []string
 
@@ -100,14 +95,12 @@ func main() {
 		passwords = loadedPasswords
 	}
 
-	// Worker Pool
 	var wg sync.WaitGroup
 	workerChan := make(chan struct {
 		User     string
 		Password string
 	}, *workerCount)
 
-	// Worker başlat
 	for i := 0; i < *workerCount; i++ {
 		go func() {
 			for attempt := range workerChan {
@@ -116,7 +109,6 @@ func main() {
 		}()
 	}
 
-	// Görevleri dağıt
 	for _, u := range users {
 		for _, p := range passwords {
 			wg.Add(1)
